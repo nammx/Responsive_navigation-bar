@@ -1,0 +1,12 @@
+/* Table  */
+
+@media(max-width: 1023px) {
+    .nav__pc {
+        display: none;
+    }
+
+    .nav__bars-btn {
+        display: block;
+    }
+
+}
